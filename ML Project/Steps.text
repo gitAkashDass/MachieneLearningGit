@@ -1,0 +1,14 @@
+1) i created a working directory by going in command prompt and going to the drive i want to work in ie  E: .
+then i changed the directory using cd "ML Project"
+2) Then Create a Virtual Environment called Virtual1 by this code python -m venv virtual1
+3) Activate it by using the following code - "E:\ML Project\ML Project\virtual1\Scripts\activate" . # ("") double is important.
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+
+
+
